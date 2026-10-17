@@ -1,7 +1,7 @@
-name: build aviator scanner Apk
+name: buildaviator scanner Apk
 
 on: 
-   workflow-dispatch:
+    workflow-dispatch:
   push:
     branches: [ main ]
   
