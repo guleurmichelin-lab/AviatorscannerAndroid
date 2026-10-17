@@ -1,4 +1,4 @@
-name: buildaviator scanner Apk
+name: build aviator scanner Apk
 
 on: 
     workflow-dispatch:
